@@ -1,0 +1,20 @@
+Overall churn rate: 22.1%
+
+Churn rate by contract type:
+Contract
+Month-to-month    0.309931
+One year          0.139706
+Two year          0.077644
+
+Churn rate by internet service:
+InternetService
+Fiber optic    0.288519
+DSL            0.173718
+No             0.167089
+
+Churn rate by payment method:
+PaymentMethod
+Electronic check             0.284553
+Mailed check                 0.200996
+Credit card (automatic)      0.194591
+Bank transfer (automatic)    0.173721
